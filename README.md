@@ -7,14 +7,14 @@ Youtube Link: https://www.youtube.com/watch?v=X_QLxTVtyng&t=1648s
 Upside-down, compact, portable, and super fast 3D printer - Positron V3 has it all. A compact 3D printer that packs into a filament spool box, so you can take it anywhere you want. This design is looking at a 3D printer less like a stationary machine, but more like a powerful tool in a maker/inventor's tool kit. The printer deploys and folds up in less than 90 seconds, fits easily inside a bag, and prints at 200+mm/s.
 
 Specs: 
-Max Print Speed: 250mm/s
-Max Travel Speed: 350mm/s
-Accelration: 9800mm/s^2
-Build Volume: 180x185x180mm
-Weight: 2700-3100g
-Hotend max temp: 250C
-Build Plate Max temp: 90C
-Power supply: 19-24V; 150-220W
+Max Print Speed: 250mm/s <br />
+Max Travel Speed: 350mm/s <br />
+Accelration: 9800mm/s^2 <br />
+Build Volume: 180x185x180mm <br />
+Weight: 2700-3100g <br />
+Hotend max temp: 250C <br />
+Build Plate Max temp: 90C <br />
+Power supply: 19-24V; 150-220W <br />
 
 Do not treat this design as a finished product; instead as a project to be improved upon. When you make this, if you find any improvements, please share it with the community! I could easely overlooked things; Lets make this printer the best it can be!
 
