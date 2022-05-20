@@ -1,0 +1,41 @@
+{
+    "version": 2,
+    "name": "Positron V2",
+    "inherits": "fdmprinter",
+    "metadata": {
+        "visible": true,
+        "author": "KRALYN 3D",
+        "manufacturer": "KRALYN Design",
+        "file_formats": "text/x-gcode",
+        "icon": "icon_ultimaker2",
+        "platform": "Positron_V2_heated_platform.stl",
+        "has_materials": true,
+        "machine_extruder_trains":
+        {
+            "0": "positron_v2_extruder_0"
+        }
+    },
+
+    "overrides": {
+        "machine_name": { "default_value": "positron v2" },
+        "machine_heated_bed": { "default_value": true },
+        "machine_width": { "default_value": 180 },
+        "machine_height": { "default_value": 180 },
+        "machine_depth": { "default_value": 181 },
+        "machine_center_is_zero": { "default_value": false },
+        "material_diameter": { "default_value": 1.75 },
+        "machine_nozzle_size": { "default_value": 0.4 },
+        "layer_height_0": { "default_value": 0.2 },
+        "retraction_amount": { "default_value": 2.3 },
+        "retraction_speed": { "default_value": 70 },
+        "adhesion_type": { "default_value": "brim" },
+        "gantry_height": { "value": 2 },
+        "machine_gcode_flavor": { "default_value": "RepRap (Marlin/Sprinter)" },
+        "machine_start_gcode": {
+            "default_value": "SET_LED LED=WS2812 RED=0 GREEN=0.1 BLUE=0.2; color teal\n M140 S{material_bed_temperature_layer_0}     ; set bed temperature and continue\n M104 S{material_print_temperature_layer_0}   ; set hot end temperature and continue\n M106 S190; fan on for correct PID\n G4  P3000 ; wait 3 sec\n G28 ; Home all axes\n G1 Z40 F300 ; Z raise\n G1 X5 Y80 F3000 ; go to parking pos.\n M109 S{material_print_temperature_layer_0}   ; wait for hot end temperature to reach e.g. 210 °C\n M106 S0; fan off\n SET_LED LED=WS2812 RED=0.18 GREEN=0 BLUE=0.20 ; color Purple\n G29 ; Level bed; Activate bed leveling compensation\n SET_LED LED=WS2812 RED=0.2 GREEN=0.1 BLUE=0 ; color Orange - printing color\n G4  P1000 ; wait a second\n ; prime nozzle\n G1 X30 Y1 F7200 ; move to start\n G1 Z0.3 F800 ; Move to layer height\n G1 X130 Y1 E20 F800 ; print prime line\n G1 X130 Y2 F7200 ; move to start\n G1 X30 Y2 E40 F800 ; print prime line\n SET_SKEW XY=142.72,140.8,100.3"
+        },
+        "machine_end_gcode": {
+            "default_value": "SET_LED LED=WS2812 RED=0.1 GREEN=0.35 BLUE=0 ; finished printing Green\n M104 S0\n M140 S0\n ;Retract the filament\n G92 E1\n G1 E-1 F80\n SET_SKEW CLEAR=1\n G1 X5 Y90 F3000\n G91\n G1 Z20 F600\n G1 Z20 F600\n G1 Z20 F600\n G1 Z20 F600\n G90\n M84\n G4  P1000 ; wait a second\n SET_LED LED=WS2812 RED=0.1 GREEN=0.1 BLUE=0.1 ; defaule white"
+        }
+    }
+}
