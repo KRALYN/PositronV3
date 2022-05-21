@@ -17,7 +17,7 @@ Upside-down, compact, portable, and super fast 3D printer - `Positron V3` has it
 **Specs**: 
 - Max Print Speed: `250mm/s`
 - Max Travel Speed: `350mm/s`
-- Accelration: `9800mm/s^2`
+- Acceleration: `9800mm/s^2`
 - Build Volume: `180x185x180mm`
 - Weight: `2700-3100g`
 - Hotend max temp: `250C`
