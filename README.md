@@ -1,7 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/issues) [![GitHub forks](https://img.shields.io/github/forks/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/network) [![GitHub stars](https://img.shields.io/github/stars/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/stargazers)
 
 <p align="center">
-   <img width="550px" height="150px" title="Logo" src="./Media%20and%20logos/Logos/Positron%20logo.svg">
+   <img width="450px" height="120x" title="Logo" src="./Media%20and%20logos/Logos/Positron%20V3%20logo.png">
 </p>
 
 ---
