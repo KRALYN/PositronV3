@@ -1,6 +1,14 @@
+[![GitHub issues](https://img.shields.io/github/issues/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/issues) [![GitHub forks](https://img.shields.io/github/forks/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/network) [![GitHub stars](https://img.shields.io/github/stars/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/stargazers)
+
+<p align="center">
+   <img width="550px" height="150px" title="Logo" src="./Media20%and20%logos/Logos/KL20%logo.jpg">
+</p>
+
+---
+
 # PositronV3
 
-[check out our Youtube to see it in action!](https://www.youtube.com/watch?v=X_QLxTVtyng&t=1648s)
+[Check out our Youtube to see it in action!](https://www.youtube.com/watch?v=X_QLxTVtyng&t=1648s)
 
 ![alt text](https://github.com/KRLAYN/PositronV3/blob/main/Media%20and%20logos/Photos%20and%20renders/PV3%20with%20printsA.jpg?raw=true)
 
@@ -23,7 +31,20 @@ Upside-down, compact, portable, and super fast 3D printer - `Positron V3` has it
 If you like the design, please consider supporting my via [Patreon](https://www.patreon.com/KRALYN3D)
 Or make a donation through [Paypal](https://www.paypal.com/donate/?hosted_button_id=D6APYZU6RKY6S)
 
-**License usage**: `CC-BY `
+# Licenses
+
+[![GitHub license](https://img.shields.io/github/license/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/blob/master/LICENSE)
+
+**License usage**: `CC-BY`
 
 If you are manufacturing this 3D printer or a close derivative, please put `KRALYN Design Logo` visibily on your product and designate `KRALYN` as the inventor of this product. You can find the file inside the logos folder.
 If you made a profit from this design, please consider donating a portion to `KRALYN Design`; I will be exceedingly grateful.
+
+***All hardware materials and designs provided here are licensed under the [CC-BY](https://creativecommons.org/licenses/by/2.0/) hardware license.
+All documentation, including the Wiki, is under the Creative Commons [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license***.
+
+<div align="center">
+<img src="./Media20%and20%logos/licenses/licenses.svg" width="300" alt="Open Licenses" />
+</div>
+
+[Top](#positron-v3)
