@@ -47,4 +47,4 @@ All documentation, including the Wiki, is under the Creative Commons [CC-BY-SA-4
 <img src="./Media%20and%20logos/licenses/licenses.svg" width="300" alt="Open Licenses" />
 </div>
 
-[Top](#positron-v3)
+[Top](#positronv3)
