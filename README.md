@@ -8,7 +8,7 @@
 
 # PositronV3
 
-[Check out our Youtube to see it in action!](https://www.youtube.com/watch?v=X_QLxTVtyng&t=1648s)
+[Check out our Youtube to see it in action!](https://www.youtube.com/watch?v=X_QLxTVtyng)
 
 ![alt text](https://github.com/KRLAYN/PositronV3/blob/main/Media%20and%20logos/Photos%20and%20renders/PV3%20with%20printsA.jpg?raw=true)
 
