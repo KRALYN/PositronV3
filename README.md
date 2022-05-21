@@ -1,28 +1,50 @@
+[![GitHub issues](https://img.shields.io/github/issues/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/issues) [![GitHub forks](https://img.shields.io/github/forks/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/network) [![GitHub stars](https://img.shields.io/github/stars/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/stargazers)
+
+<p align="center">
+   <img width="550px" height="150px" title="Logo" src="./Media%20and%20logos/Logos/Positron%20logo.svg">
+</p>
+
+---
+
 # PositronV3
 
-Youtube Link: https://www.youtube.com/watch?v=X_QLxTVtyng&t=1648s
+[Check out our Youtube to see it in action!](https://www.youtube.com/watch?v=X_QLxTVtyng)
 
 ![alt text](https://github.com/KRLAYN/PositronV3/blob/main/Media%20and%20logos/Photos%20and%20renders/PV3%20with%20printsA.jpg?raw=true)
 
-Upside-down, compact, portable, and super fast 3D printer - Positron V3 has it all. A compact 3D printer that packs into a filament spool box, so you can take it anywhere you want. This design is looking at a 3D printer less like a stationary machine, but more like a powerful tool in a maker/inventor's tool kit. The printer deploys and folds up in less than 90 seconds, fits easily inside a bag, and prints at 200+mm/s.
+Upside-down, compact, portable, and super fast 3D printer - `Positron V3` has it all. A compact 3D printer that packs into a filament spool box, so you can take it anywhere you want. This design is looking at a 3D printer less like a stationary machine, but more like a powerful tool in a maker/inventor's tool kit. The printer deploys and folds up in less than 90 seconds, fits easily inside a bag, and prints at 200+mm/s.
 
-Specs: 
-Max Print Speed: 250mm/s <br />
-Max Travel Speed: 350mm/s <br />
-Accelration: 9800mm/s^2 <br />
-Build Volume: 180x185x180mm <br />
-Weight: 2700-3100g <br />
-Hotend max temp: 250C <br />
-Build Plate Max temp: 90C <br />
-Power supply: 19-24V; 150-220W <br />
+**Specs**: 
+- Max Print Speed: `250mm/s`
+- Max Travel Speed: `350mm/s`
+- Acceleration: `9800mm/s^2`
+- Build Volume: `180x185x180mm`
+- Weight: `2700-3100g`
+- Hotend max temp: `250C`
+- Build Plate Max temp: `90C`
+- Power supply: `19-24V; 150-220W`
 
-Do not treat this design as a finished product; instead as a project to be improved upon. When you make this, if you find any improvements, please share it with the community! I could easely overlooked things; Lets make this printer the best it can be!
+> Do not treat this design as a finished product. Instead, please see it as a project to be improved upon. When you make this, if you find any improvements, please share it with the community! I could easely have overlooked things; Lets make this printer the best it can be!
 
-Disclaimer: Positron V3 design is a functional prototype, not a complete product. There is absolutely no warranty, and you will make this design at your OWN risk. I will not be responsible for any damages associated with this design. 
+>**Disclaimer**: `Positron V3` design is a ***functional*** prototype, not a complete product. **There is absolutely no warranty, and you will make this design at your ***OWN*** risk. I will not be responsible for any damages associated with this design**. 
 
-If you like the design, please consider supporting my via Patreon: https://www.patreon.com/KRALYN3D
-Or make a donation through Paypal: https://www.paypal.com/donate/?hosted_button_id=D6APYZU6RKY6S
+If you like the design, please consider supporting my work via [Patreon](https://www.patreon.com/KRALYN3D)
+Or make a donation through [Paypal](https://www.paypal.com/donate/?hosted_button_id=D6APYZU6RKY6S)
 
-License usage: CC-BY 
-If you are manufacturing this 3D printer or a close derivative, please put KRALYN Design Logo visibility on your product and designate KRALYN as the inventor of this product. You can find the file inside the logos folder.
-If you made a profit from this design, please consider donating a portion to KRALYN Design; I will be exceedingly grateful.
+# Licenses
+
+[![GitHub license](https://img.shields.io/github/license/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/blob/master/LICENSE)
+
+**License usage**: `CC-BY`
+
+If you are manufacturing this 3D printer or a close derivative, please put `KRALYN Design Logo` visibily on your product and designate `KRALYN` as the inventor of this product. You can find the file inside the logos folder.
+If you made a profit from this design, please consider donating a portion to `KRALYN Design`. I will be exceedingly grateful.
+
+***All hardware materials and designs provided here are licensed under the [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) hardware license.
+All documentation, including the Wiki, is under the Creative Commons [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license***.
+
+<div align="center">
+<img src="./Media%20and%20logos/licenses/licenses.svg" width="300" alt="Open Licenses" />
+</div>
+
+[Top](#positronv3)
