@@ -1,7 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/issues) [![GitHub forks](https://img.shields.io/github/forks/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/network) [![GitHub stars](https://img.shields.io/github/stars/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/stargazers)
 
 <p align="center">
-   <img width="550px" height="150px" title="Logo" src="./Media20%and20%logos/Logos/KL20%logo.jpg">
+   <img width="550px" height="150px" title="Logo" src="./Media%20and%20logos/Logos/Positron%20logo.svg">
 </p>
 
 ---
@@ -44,7 +44,7 @@ If you made a profit from this design, please consider donating a portion to `KR
 All documentation, including the Wiki, is under the Creative Commons [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license***.
 
 <div align="center">
-<img src="./Media20%and20%logos/licenses/licenses.svg" width="300" alt="Open Licenses" />
+<img src="./Media%20and%20logos/licenses/licenses.svg" width="300" alt="Open Licenses" />
 </div>
 
 [Top](#positron-v3)
