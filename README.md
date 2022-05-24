@@ -1,14 +1,21 @@
 [![GitHub issues](https://img.shields.io/github/issues/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/issues) [![GitHub forks](https://img.shields.io/github/forks/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/network) [![GitHub stars](https://img.shields.io/github/stars/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/stargazers)
 
 <p align="center">
-   <img width="120px" height="120x" title="Logo" src="./Media%20and%20logos/Logos/Positron%20V3%20logo.png">
+   <img width="120px" height="120x" title="Logo" src="./Media%20and%20logos/Logos/Positron%20V3%20logo%20light.png">
 </p>
 
 ---
 
-# PositronV3
+# PositronV3 LINKS:::
 
 [Check out our Youtube to see it in action!](https://www.youtube.com/watch?v=X_QLxTVtyng)
+
+[Source Parts and links from here (BOM)](https://docs.google.com/spreadsheets/d/1M--jvOxUEVNc-NtEsor3uPZQsdXsPD1CKWxmc8fwLWI/edit?usp=sharing)
+
+[PositronV3 Manufacturing Master Sheet](https://docs.google.com/spreadsheets/d/1qN5KJWDVH5ThWGZ28TEOSm1BKp3oMi2G3o8FUSa0ZRU/edit?usp=sharing)
+
+[PositronV3 Manufacturing & production Misc notes](https://docs.google.com/document/d/1z848gDqvVRCHIMzX_ltr0iuHKC0EaDqbpCQJTiSfUPk/edit?usp=sharing)
+
 
 ![alt text](https://github.com/KRLAYN/PositronV3/blob/main/Media%20and%20logos/Photos%20and%20renders/PV3%20with%20printsA.jpg?raw=true)
 
