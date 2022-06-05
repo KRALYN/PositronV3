@@ -45,6 +45,11 @@ Or make a donation through [Paypal](https://www.paypal.com/donate/?hosted_button
 **License usage**: `CC-BY`
 
 If you are manufacturing this 3D printer or a close derivative, please put `KRALYN Design & Positron3D Logos` visibily on your product and designate `KRALYN & Positron3D` as the inventor of this product. You can find the file inside the logos folder.
+
+On any online postings for any Parts or Kits, please be sure to link back to this github page, as well as to Positron 3D's website.
+`https://github.com/KRALYN/PositronV3`
+`https://positron3d.com/`
+
 If you made a profit from this design, please consider donating a portion to `KRALYN Design & Positron3D`. I will be exceedingly grateful.
 
 ***All hardware materials and designs provided here are licensed under the [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) hardware license.
