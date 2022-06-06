@@ -8,11 +8,15 @@
 
 # PositronV3 LINKS:::
 
+[Positron 3D Website](https://positron3d.com)
+
+[Subscribe for Kit Availability](https://docs.google.com/forms/d/e/1FAIpQLScSUN6uIbf_p_ZukdroXxWQURiDlr32UO7YCeqWrKqZagVfdA/viewform)
+
+[Inquire about Producing Kits](https://forms.gle/fReHdo7zMeWoU7ML7)
+
 [Check out our Youtube to see it in action!](https://www.youtube.com/watch?v=X_QLxTVtyng)
 
 [Source Parts and links from here (BOM)](https://docs.google.com/spreadsheets/d/1M--jvOxUEVNc-NtEsor3uPZQsdXsPD1CKWxmc8fwLWI/edit?usp=sharing)
-
-[PositronV3 Manufacturing Master Sheet](https://docs.google.com/spreadsheets/d/1qN5KJWDVH5ThWGZ28TEOSm1BKp3oMi2G3o8FUSa0ZRU/edit?usp=sharing)
 
 [PositronV3 Manufacturing & production Misc notes](https://docs.google.com/document/d/1z848gDqvVRCHIMzX_ltr0iuHKC0EaDqbpCQJTiSfUPk/edit?usp=sharing)
 
@@ -44,13 +48,13 @@ Or make a donation through [Paypal](https://www.paypal.com/donate/?hosted_button
 
 **License usage**: `CC-BY`
 
-If you are manufacturing this 3D printer or a close derivative, please put `KRALYN Design & Positron3D Logos` visibily on your product and designate `KRALYN & Positron3D` as the inventor of this product. You can find the file inside the logos folder.
+If you are manufacturing this 3D printer or a close derivative, please put `Positron Logo` visibily on your product and designate `Positron3D` as the inventor of this product. You can find the file inside the logos folder.
 
 On any online postings for any Parts or Kits, please be sure to link back to this github page, as well as to Positron 3D's website.
 `https://github.com/KRALYN/PositronV3`
 `https://positron3d.com/`
 
-If you made a profit from this design, please consider donating a portion to `KRALYN Design & Positron3D`. I will be exceedingly grateful.
+If you made a profit from this design, please consider donating a portion to `Positron3D`. I will be exceedingly grateful.
 
 ***All hardware materials and designs provided here are licensed under the [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) hardware license.
 All documentation, including the Wiki, is under the Creative Commons [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license***.
