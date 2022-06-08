@@ -39,8 +39,7 @@ Upside-down, compact, portable, and super fast 3D printer - `Positron V3` has it
 
 >**Disclaimer**: `Positron V3` design is a ***functional*** prototype, not a complete product. **There is absolutely no warranty, and you will make this design at your ***OWN*** risk. I will not be responsible for any damages associated with this design**. 
 
-If you like the design, please consider supporting my work via [Patreon](https://www.patreon.com/KRALYN3D)
-Or make a donation through [Paypal](https://www.paypal.com/donate/?hosted_button_id=D6APYZU6RKY6S)
+If you like this design, please consider supporting the Positron 3D team via donations; [Paypal](https://donate.positron3d.com)
 
 # Licenses
 
