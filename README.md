@@ -18,8 +18,6 @@
 
 [Source Parts and links from here (BOM)](https://docs.google.com/spreadsheets/d/1M--jvOxUEVNc-NtEsor3uPZQsdXsPD1CKWxmc8fwLWI/edit?usp=sharing)
 
-[PositronV3 Manufacturing & production Misc notes](https://docs.google.com/document/d/1z848gDqvVRCHIMzX_ltr0iuHKC0EaDqbpCQJTiSfUPk/edit?usp=sharing)
-
 
 ![alt text](https://github.com/KRLAYN/PositronV3/blob/main/Media%20and%20logos/Photos%20and%20renders/PV3%20with%20printsA.jpg?raw=true)
 
