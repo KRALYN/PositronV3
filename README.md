@@ -36,9 +36,9 @@ Upside-down, compact, portable, and super fast 3D printer - `Positron V3` has it
 - Build Plate Max temp: `90C`
 - Power supply: `19-24V; 150-220W`
 
-> Do not treat this design as a finished product. Instead, please see it as a project to be improved upon. When you make this, if you find any improvements, please share it with the community! I could easely have overlooked things; Lets make this printer the best it can be!
+> Do not treat this design as a finished product. Instead, please see it as a project to be improved upon. When you make this, if you find any improvements, please share it with the community! We could easely have overlooked things; Lets make this printer the best it can be!
 
->**Disclaimer**: `Positron V3` design is a ***functional*** prototype, not a complete product. **There is absolutely no warranty, and you will make this design at your ***OWN*** risk. I will not be responsible for any damages associated with this design**. 
+>**Disclaimer**: `Positron V3` design is a ***functional*** prototype, not a complete product. **There is absolutely no warranty, and you will make this design at your ***OWN*** risk. We will not be responsible for any damages associated with this design**. 
 
 If you like this design, please consider supporting the Positron 3D team via donations; [Paypal](https://donate.positron3d.com)
 
@@ -54,7 +54,7 @@ On any online postings for any Parts or Kits, please be sure to link back to thi
 `https://github.com/KRALYN/PositronV3`
 `https://positron3d.com/`
 
-If you made a profit from this design, please consider donating a portion to `Positron3D`. I will be exceedingly grateful.
+If you made a profit from this design, please consider donating a portion to `Positron3D`. We will be exceedingly grateful.
 
 ***All hardware materials and designs provided here are licensed under the [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) hardware license.
 All documentation, including the Wiki, is under the Creative Commons [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license***.
