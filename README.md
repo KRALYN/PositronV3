@@ -20,6 +20,8 @@
 
 [Alpha Wiki (Still in development)](https://wiki.positron3d.com)
 
+[Canary Branch (Community Repo)](https://github.com/Positron3D/PositronV3-Canary)
+
 ![alt text](https://github.com/KRLAYN/PositronV3/blob/main/Media%20and%20logos/Photos%20and%20renders/PV3%20with%20printsA.jpg?raw=true)
 
 Upside-down, compact, portable, and super fast 3D printer - `Positron V3` has it all. A compact 3D printer that packs into a filament spool box, so you can take it anywhere you want. This design is looking at a 3D printer less like a stationary machine, but more like a powerful tool in a maker/inventor's tool kit. The printer deploys and folds up in less than 90 seconds, fits easily inside a bag, and prints at 200+mm/s.
