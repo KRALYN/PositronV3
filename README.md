@@ -17,7 +17,9 @@
 [Check out our Youtube to see it in action!](https://www.youtube.com/watch?v=X_QLxTVtyng)
 
 [Source Parts and links from here (BOM)](https://docs.google.com/spreadsheets/d/1M--jvOxUEVNc-NtEsor3uPZQsdXsPD1CKWxmc8fwLWI/edit?usp=sharing)
+[Alpha Wiki BOM)](https://wiki.positron3d.com/books/general-information-getting-started/page/bill-of-materials-self-sourcing-guide)
 
+[Alpha Wiki (Still in development)](https://wiki.positron3d.com)
 
 ![alt text](https://github.com/KRLAYN/PositronV3/blob/main/Media%20and%20logos/Photos%20and%20renders/PV3%20with%20printsA.jpg?raw=true)
 
