@@ -16,8 +16,7 @@
 
 [Check out our Youtube to see it in action!](https://www.youtube.com/watch?v=X_QLxTVtyng)
 
-[Source Parts and links from here (BOM)](https://docs.google.com/spreadsheets/d/1M--jvOxUEVNc-NtEsor3uPZQsdXsPD1CKWxmc8fwLWI/edit?usp=sharing)
-[Alpha Wiki BOM)](https://wiki.positron3d.com/books/general-information-getting-started/page/bill-of-materials-self-sourcing-guide)
+[Source Parts and links from here (BOM)](https://docs.google.com/spreadsheets/d/1M--jvOxUEVNc-NtEsor3uPZQsdXsPD1CKWxmc8fwLWI/edit?usp=sharing) or check out the [Alpha Wiki BOM](https://wiki.positron3d.com/books/general-information-getting-started/page/bill-of-materials-self-sourcing-guide)
 
 [Alpha Wiki (Still in development)](https://wiki.positron3d.com)
 
