@@ -6,21 +6,20 @@
 
 ---
 
+# This Repo is now set to "LEGACY"
+What does this Mean? - The Positron Project has evolved! We now partner with LDO to produce kits for the new and imporved Positron V3.2
+
+This repo will no longer be updated, and will be moved to [the new Github Repo](https://github.com/Positron3D/Positron) once all files are made available from LDO.
+
+Please join the [The Positron Discord](https://discord.gg/5VCruU6EYv) for the most direct updates, and keep an eye on [Our Website](https://positron3d.com).
+
 # PositronV3 LINKS:::
 
 [Positron 3D Website](https://positron3d.com)
 
-[Subscribe for Kit Availability](https://docs.google.com/forms/d/e/1FAIpQLScSUN6uIbf_p_ZukdroXxWQURiDlr32UO7YCeqWrKqZagVfdA/viewform)
-
-[Inquire about Producing Kits](https://forms.gle/fReHdo7zMeWoU7ML7)
-
 [Check out our Youtube to see it in action!](https://www.youtube.com/watch?v=X_QLxTVtyng)
 
 [Source Parts and links from here (BOM)](https://docs.google.com/spreadsheets/d/1M--jvOxUEVNc-NtEsor3uPZQsdXsPD1CKWxmc8fwLWI/edit?usp=sharing) or check out the [Alpha Wiki BOM](https://wiki.positron3d.com/books/general-information-getting-started/page/bill-of-materials-self-sourcing-guide)
-
-[Alpha Wiki (Still in development)](https://wiki.positron3d.com)
-
-[Canary Branch (Community Repo)](https://github.com/Positron3D/PositronV3-Canary)
 
 ![alt text](https://github.com/KRLAYN/PositronV3/blob/main/Media%20and%20logos/Photos%20and%20renders/PV3%20with%20printsA.jpg?raw=true)
 
